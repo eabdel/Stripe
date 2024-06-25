@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "payum/core": "2.0.x-dev",
+        "payum/core": "dev-bugfix",
         "stripe/stripe-php": "^7.0"
     },
     "require-dev": {
